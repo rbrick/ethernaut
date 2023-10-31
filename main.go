@@ -21,6 +21,7 @@ var (
 		"fallout":    &FalloutPuzzle{},
 		"coinflip":   &CoinflipPuzzle{},
 		"delegation": &DelegationPuzzle{},
+		"vault":      &VaultPuzzle{},
 	}
 )
 
