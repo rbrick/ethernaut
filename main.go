@@ -22,6 +22,7 @@ var (
 		"coinflip":   &CoinflipPuzzle{},
 		"delegation": &DelegationPuzzle{},
 		"vault":      &VaultPuzzle{},
+		"privacy":    &PrivacyPuzzle{},
 	}
 )
 
